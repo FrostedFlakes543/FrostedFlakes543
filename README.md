@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FrostedFlakes543
-- 👀 I’m interested in ... Linux, Network Security, and Data archival.
+- 👀 I’m interested in ... GNU / Linux, Open-Source Software + Hardware, Network Security, Data hoarding.
 - 🌱 I’m currently learning ... Java, Js and, C#
 - 💞️ I’m looking to collaborate on ... frontend interfacing with LLM's
 - 📫 How to reach me ...  discord: 100psihunt3r543 or here
-- 😄 Pronouns: ...Frosted Flakes
+- 😄 Pronouns: ...Frosted / Flakes
 
 
 
