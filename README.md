@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrostedFlakes543
-- 👀 I’m interested in ... GNU / Linux, Open-Source Software, Network Security, Data hoarding, TEA and ofcourse Kelloggs Frosted Flakes!
+- 👀 I’m interested in ... GNU / Linux, Open-Source Software, Data hoarding, TEA, and Kelloggs Frosted Flakes!
 - 🌱 I’m currently learning ... Java, Js and, C#
 - 💞️ I’m looking to collaborate on ... frontend web interfacing with LLM's
 - 📫 How to reach me ...  discord: 100psihunt3r543 or here
